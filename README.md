@@ -1,1 +1,11 @@
-# MA_heuristics-biases
+# Identifying heuristics and cognitive biases in social media discourse with quantitative and qualitative methods
+
+Data analysis for my Master's thesis.
+
+**Topic EN:** Identifying heuristics and cognitive biases in social media discourse with quantitative and qualitative methods
+
+**Topic PL:** Identyfikowanie heurystyk i błędów poznawczych w dyskusjach w mediach społecznościowych z wykorzystaniem metod ilościowych i jakościowych
+
+**Abstract:** The study presented in this thesis employs corpus linguistic methods to investigate the presence and specificity of heuristics and cognitive biases in social media discourse on climate change and artificial intelligence. The research is grounded in theories of bounded rationality (Simon, 1955), dual-process models of information processing (Kahneman, 2011; Kahneman and Frederick, 2005; Stanovich and West, 2000), and interdisciplinary ontologies of heuristics. An annotation scheme for five phenomena was developed: affect heuristic, availability heuristic, representativeness heuristic, confirmation bias, and dichotomous thinking, each operationalised for two rounds of annotation. The corpus comprised posts and comments from Reddit and X (formerly Twitter), which were manually annotated by a team of trained annotators, and an additional 30% of the data was labelled using the GPT-4o model. Analyses revealed that the affect heuristic dominated among the identified cognitive biases, and qualitative analysis indicated its frequent co-occurrence with confirmation bias and the availability heuristic. Word-cloud visualisations illustrated distinctive linguistic markers of these biases. Furthermore, brief micro-breaks consisting of watching humorous animal videos significantly improved annotators’ well-being. The main contribution of this thesis is one of the first independent attempts to operationalise selected psychological and cognitive concepts (heuristics and cognitive distortions) into a form applicable to discourse analysis. The proposed method, combining both manual and automated annotation, was applied to selected text corpora, demonstrating its practical utility. The findings show that the identification of heuristics and cognitive biases in reasoning can be effectively conducted not only through experimental and psychological methods, but also using discourse analysis tools.
+
+**Keywords:** heuristics, cognitive biases, corpus linguistics, annotator well-being, social media, climate change, artificial intelligence
